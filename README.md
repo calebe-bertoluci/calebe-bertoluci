@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calebe-bertoluci
-- 👀 I’m interested in becoming a Software Engineering who works remotly to exterior 
+- 👀 I’m interested in becoming a Software Engineer who works remotly to exterior 
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on challangening projects for self improvement
 - 📫 How to reach me: calebe.bertoluci@gmail.com // 📱 Wpp: +55 19 98301-3171
