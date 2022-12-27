@@ -4,7 +4,7 @@
 - 💼 My last job was in Safra's Bank
 - 👨‍💻 See my portfolio website at: [working on it!]
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/calebe-bertoluci/" target="_blank">
+- 📫 <a href="https://www.linkedin.com/in/calebe-bertoluci/" target="_blank">
   <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Calebe&nbsp;Bertoluci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto: calebe.bertoluci@gmail.com" target="_blank">
