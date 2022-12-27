@@ -27,7 +27,7 @@
 ## 📈 My Stats
 
 <div style="display: flex; justify-content:center">
-    <img height="180em" alt="Calebe Bertoluci most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioyamashita&layout=compact&theme=dark"/>
-    <img height="180em" alt="Calebe Bertoluci github stats" src="https://github-readme-stats.vercel.app/api?username=fabioyamashita&theme=dark"/>
+    <img height="180em" alt="Calebe Bertoluci most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebe-bertoluci&layout=compact&theme=dark"/>
+    <img height="180em" alt="Calebe Bertoluci github stats" src="https://github-readme-stats.vercel.app/api?username=calebe-bertoluci&theme=dark"/>
 </div>
 </br>
