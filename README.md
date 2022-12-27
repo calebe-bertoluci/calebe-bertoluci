@@ -10,7 +10,7 @@
   <a href="mailto: calebe.bertoluci@gmail.com" target="_blank">
   <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/calebe.bertoluci@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
-  <a href="http://wa.me/5519983013171"
+  <a href="http://wa.me/5519983013171" target="_blank">
    <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  </a>
 
