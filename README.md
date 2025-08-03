@@ -1,9 +1,7 @@
 <h1 align="left"><b> Hi there 👋, I'm Calebe Bertoluci!</b></h1>
 
-- 🔭 I’m a Full Stack Web Developer
-- 💼 My last job was in Safra's Bank
-- 👨‍💻 See my portfolio website at: [working on it!]
-- 🌱 I’m currently learning Angular
+- 🔭 I’m a Back-end Engineer
+- 💼 I work in the Samsung Research Institute
 - 📫 <a href="https://www.linkedin.com/in/calebe-bertoluci/" target="_blank">
   <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Calebe&nbsp;Bertoluci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
